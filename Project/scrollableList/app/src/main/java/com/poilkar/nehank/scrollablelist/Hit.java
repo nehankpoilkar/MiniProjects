@@ -11,6 +11,9 @@ public class Hit {
     @Expose
     private String index;
     @SerializedName("_type")
+
+
+
     @Expose
     private String type;
     @SerializedName("_id")
